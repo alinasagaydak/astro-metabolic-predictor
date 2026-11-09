@@ -1,0 +1,21 @@
+# Виртуальные окружения
+cosmo_env/
+venv/
+env/
+.env
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Локальные логи и временные файлы
+*.log
+*.tmp
